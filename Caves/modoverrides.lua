@@ -28,7 +28,7 @@ return {
       SHAREMINIMAPPROGRESS=true,
       SHOWFIREICONS=true,
       SHOWPLAYERICONS=true,
-      SHOWPLAYERSOPTIONS=2 
+      SHOWPLAYERSOPTIONS=3 
     },
     enabled=true 
   },
@@ -54,29 +54,7 @@ return {
     },
     enabled=true 
   },
-  ["workshop-460972875"]={ configuration_options={ LANG="simplified" }, enabled=true },
   ["workshop-466732225"]={ configuration_options={  }, enabled=true },
-  ["workshop-569043634"]={ configuration_options={  }, enabled=true },
-  ["workshop-572538624"]={
-    configuration_options={
-      IS_CHS_ALL_MOD=true,
-      IS_CHS_CHARACTER=true,
-      IS_CHS_FIX_ALL=true,
-      IS_CHS_SETTINGS=true 
-    },
-    enabled=true 
-  },
-  ["workshop-623749604"]={
-    configuration_options={
-      Craft="Normal",
-      Destroyable="DestroyByAll",
-      FoodSpoilage=1,
-      Language="En",
-      Position="Center",
-      Slots=80 
-    },
-    enabled=true 
-  },
   ["workshop-786556008"]={
     configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
     enabled=true 

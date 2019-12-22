@@ -10,15 +10,15 @@ KLEI     1 return {
         game_mode="wilderness",
         intention="cooperative",
         max_players=6,
-        name="suosuo",
+        name="jiejiejie",
         online_mode=true,
-        password="",
+        password="123456",
         privacy_type=0,
         pvp=false,
         server_language="zh",
         use_cluster_path=true 
       },
-      session_id="5D19643979B3C517",
+      session_id="59EA59BDA45D0AA7",
       world={
         options={
           {

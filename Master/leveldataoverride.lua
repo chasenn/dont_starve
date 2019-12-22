@@ -75,7 +75,7 @@ return {
     spiders="default",
     spring="default",
     start_location="default",
-    summer="shortseason",
+    summer="default",
     tallbirds="default",
     task_set="default",
     tentacles="default",
@@ -85,7 +85,7 @@ return {
     walrus="default",
     weather="default",
     wildfires="default",
-    winter="shortseason",
+    winter="default",
     world_size="default",
     wormhole_prefab="wormhole" 
   },

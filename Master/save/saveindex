@@ -10,15 +10,15 @@ KLEI     1 return {
         game_mode="wilderness",
         intention="cooperative",
         max_players=6,
-        name="suosuo",
+        name="jiejiejie",
         online_mode=true,
-        password="",
+        password="123456",
         privacy_type=0,
         pvp=false,
         server_language="zh",
         use_cluster_path=true 
       },
-      session_id="192C0A3C4F41F7FB",
+      session_id="705E7BAC2C9B8A18",
       world={
         options={
           {
@@ -98,7 +98,7 @@ KLEI     1 return {
               spiders="default",
               spring="default",
               start_location="default",
-              summer="shortseason",
+              summer="default",
               tallbirds="default",
               task_set="default",
               tentacles="default",
@@ -108,7 +108,7 @@ KLEI     1 return {
               walrus="default",
               weather="default",
               wildfires="default",
-              winter="shortseason",
+              winter="default",
               world_size="default",
               wormhole_prefab="wormhole" 
             },
