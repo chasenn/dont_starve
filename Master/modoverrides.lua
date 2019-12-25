@@ -58,5 +58,7 @@ return {
   ["workshop-786556008"]={
     configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
     enabled=true 
-  } 
+  },
+  ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
+  ["workshop-1207269058"]={ configuration_options={  }, enabled=true }
 }
